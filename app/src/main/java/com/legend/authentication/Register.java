@@ -1,4 +1,4 @@
-package com.legend.authentication;
+package com.legend.authentication; 
 
 import android.content.Intent;
 import android.os.Bundle;
